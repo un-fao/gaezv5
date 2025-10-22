@@ -15,7 +15,7 @@ GAEZ offers a scientific framework for quantifying land productivity and evaluat
 
 ---
 
-## 🧭 What’s in This Repository?
+## 🧭 What’s in this repository?
 
 - 📖 **Methodology Documentation**  
   Access detailed descriptions of the GAEZ v5 methods and data:  
