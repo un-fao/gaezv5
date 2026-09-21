@@ -26,7 +26,7 @@ This repository provides access to the **GAEZ v5 methodology, technical document
 
 - 🌍 **GAEZ v5 Platform**  
   Access the **GAEZ v5 data platform** to explore, visualize, and access global agro-ecological information and model results. The platform provides access to spatial datasets and indicators related to **land suitability, attainable crop yields, production potential, agro-climatic resources, and agricultural constraints** under different production systems, input levels, and biophysical conditions.  
-  👉 [GAEZ v5 Platform](https://data.apps.gaez.fao.org/)
+  👉 [GAEZ v5 Platform](https://data.apps.fao.org/gaez/?lang=en)
 
 - 🐍 **PyAEZ**  
   Explore **PyAEZ**, a Python package implementing algorithms and computational procedures related to the **Agro-Ecological Zoning (AEZ)** framework. PyAEZ supports researchers, analysts, and developers interested in applying AEZ methodologies programmatically and reproducing selected components of the agro-ecological assessment framework.  
@@ -36,7 +36,7 @@ This repository provides access to the **GAEZ v5 methodology, technical document
 
 ## 🔗 Useful Links
 
-- 🌍 **GAEZ v5 Platform:** [GAEZ v5 Platform](https://data.apps.gaez.fao.org/)
+- 🌍 **GAEZ v5 Platform:** [GAEZ v5 Platform](https://data.apps.fao.org/gaez/?lang=en)
 - 📖 **GAEZ v5 Documentation:** [GAEZ v5 Wiki](https://github.com/un-fao/gaezv5/wiki)
 - 🐍 **PyAEZ:** [github.com/gicait/PyAEZ](https://github.com/gicait/PyAEZ)
 - 🌾 **GAEZ webpage:** [GAEZ webpage](https://www.fao.org/gaez)
