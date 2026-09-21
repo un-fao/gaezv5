@@ -45,9 +45,9 @@ Users are encouraged to consult the guide and the GAEZ v5 methodology documentat
 
 ---
 
-## 💻 Programmatic Data Access
+## 💻 Data Access Notebooks
 
-For users who need to access GAEZ v5 data outside the interactive platform, this repository also provides **Jupyter Notebooks for programmatic data access and download**.
+For users who need to access GAEZ v5 data outside the interactive platform, this repository also provides **Jupyter Notebooks for data access and download through the API**.
 
 The notebooks allow users to select GAEZ v5 datasets based on relevant parameters and retrieve the corresponding data through the API for use in GIS, modelling, and other analytical workflows.
 
