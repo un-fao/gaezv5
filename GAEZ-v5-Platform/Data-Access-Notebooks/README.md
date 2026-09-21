@@ -6,9 +6,6 @@ The notebooks provide interactive workflows for querying the **GAEZ v5 data cata
 
 Both notebooks follow the same general workflow: run all cells, make your selections using the interactive panel displayed at the bottom of the notebook, compile the matching files, and download them.
 
-# GAEZ v5 Downloaders — User Guide
-
-This repo includes two notebooks for downloading **GAEZ v5** GeoTIFF rasters directly from the FAO public data repository. Both work the same way: run all cells, then make your selections in the interactive panel that appears at the bottom.
 
 |Notebook|Dataset|
 |-|-|
@@ -45,8 +42,10 @@ pip install pandas openpyxl requests ipywidgets
 
 ## Where files go
 
-* RES02 → `downloads\_res02/<VARIABLE>/<PERIOD>\_<CLIMATE>\_<SSP>\_<INPUT>/<file\_name>.tif`
-* RES05 → `downloads\_res05/`, organized the same way (by variable, period, climate source, SSP, and input level)
+* RES02 → `downloads/_res02/<VARIABLE>/<PERIOD>/_<CLIMATE>/_<SSP>/_<INPUT>/<file/_name>.tif`
+* RES05 → `downloads/_res05/<VARIABLE>/<PERIOD>/_<CLIMATE>/_<SSP>/_<INPUT>/<file/_name>.tif`
+
+Both are organized in the same way: by variable, period, climate source, SSP, and input level.
 
 ## Settings
 
