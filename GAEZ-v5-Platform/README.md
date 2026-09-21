@@ -36,11 +36,8 @@ The guide covers:
 - the organization of GAEZ v5 datasets into themes, sub-themes, and variables;
 - how to explore and access data through the platform;
 - how to download raster datasets from cloud storage;
-- GAEZ v5 dataset naming conventions;
-- variable and crop codes;
-- historical and future time periods;
-- climate models and scenarios; and
-- water supply and input management levels used in GAEZ v5 datasets.
+- GAEZ v5 variables and codes;
+- GAEZ v5 naming conventions.
 
 Users are encouraged to consult the guide and the GAEZ v5 methodology documentation when interpreting and using GAEZ v5 data.
 
