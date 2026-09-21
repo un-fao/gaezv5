@@ -21,12 +21,14 @@ This repository provides access to the **GAEZ v5 methodology, technical document
 ## 🧭 What’s in this repository?
 
 - 📖 **GAEZ v5 Methodology Documentation**  
-  Explore detailed documentation of the **GAEZ v5 methodology**, including descriptions of the input data, modelling framework, methodological components, and analytical procedures used to assess agricultural resources and land productivity.  
+  Explore detailed documentation of the **GAEZ v5 methodology**, including input data, modelling frameworks, methodological components, and analytical procedures used to assess agricultural resources, land suitability, and agricultural production potential.  
   👉 [GAEZ v5 Wiki](https://github.com/un-fao/gaezv5/wiki)
 
-- 🌍 **GAEZ v5 Platform**  
-  Access the **GAEZ v5 data platform** to explore, visualize, and access global agro-ecological information and model results. The platform provides access to spatial datasets and indicators related to **land suitability, attainable crop yields, production potential, agro-climatic resources, and agricultural constraints** under different production systems, input levels, and biophysical conditions.  
-  👉 [GAEZ v5 Platform](https://data.apps.fao.org/gaez/?lang=en)
+- 🌍 **GAEZ v5 Platform User Guide and Supporting Tools**  
+Access practical guidance for navigating the platform, exploring datasets, interpreting spatial layers and indicators, and using its visualization and analytical functionalities.
+Access jupyther notebook to dowlaod GAEZ v5 data using API
+  👉 [GAEZ v5 Platform User Guide](https://github.com/un-fao/gaezv5/wiki/21.-GAEZ-v5-Platform-User-Guide)
+  👉 [GAEZ v5 API](https://github.com/un-fao/gaezv5/wiki)
 
 - 🐍 **PyAEZ**  
   Explore **PyAEZ**, a Python package implementing algorithms and computational procedures related to the **Agro-Ecological Zoning (AEZ)** framework. PyAEZ supports researchers, analysts, and developers interested in applying AEZ methodologies programmatically and reproducing selected components of the agro-ecological assessment framework.  
