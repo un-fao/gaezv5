@@ -33,8 +33,3 @@ To use a notebook:
 4. Run the cells sequentially and follow the instructions provided in the notebook.
 5. Select the required GAEZ v5 datasets and parameters.
 6. Download the selected data for further analysis.
-
-For guidance on using the interactive GAEZ v5 Platform:
-
-👉 [GAEZ v5 Platform User Guide](https://github.com/un-fao/gaezv5/wiki/21.-GAEZ-v5-Platform-User-Guide)
-
