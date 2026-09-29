@@ -2,7 +2,6 @@
 
 [![License](https://img.shields.io/badge/License-FAO-blue.svg)](https://www.fao.org/)
 [![Documentation](https://img.shields.io/badge/Documentation-GAEZ%20Wiki-brightgreen.svg)](https://github.com/un-fao/gaezv5/wiki)
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 
 ---
 
