@@ -30,7 +30,7 @@ This repository provides access to the **GAEZ v5 methodology and technical docum
 
 - 🐍 **PyAEZ**  
   Explore **PyAEZ**, a Python package implementing algorithms and computational procedures related to the **Agro-Ecological Zoning (AEZ)** framework. PyAEZ supports researchers, analysts, and developers interested in applying AEZ methodologies programmatically and reproducing selected components of the agro-ecological assessment framework.  
-  👉 [PyAEZ on GitHub](https://github.com/gicait/PyAEZ)
+  👉 [PyAEZ on GitHub](https://github.com/un-fao/pyaez)
 
 ---
 
@@ -41,4 +41,4 @@ This repository provides access to the **GAEZ v5 methodology and technical docum
 - 💻 **GAEZ v5 Data Access Notebooks:** [Data Access Notebooks](./GAEZ-v5-Platform/Data-Access-Notebooks/)
 - 📖 **GAEZ v5 Documentation:** [GAEZ v5 Wiki](https://github.com/un-fao/gaezv5/wiki)
 - 🌾 **FAO GAEZ Website:** [Global Agro-Ecological Zoning](https://www.fao.org/gaez)
-- 🐍 **PyAEZ:** [PyAEZ on GitHub](https://github.com/gicait/PyAEZ)
+- 🐍 **PyAEZ:** [PyAEZ on GitHub](https://github.com/un-fao/pyaez)
