@@ -1,6 +1,6 @@
 # 🌍 GAEZ v5 platform resources
 
-The **GAEZ v5 Platform** provides open access to geographic and tabular data from the Global Agro-Ecological Zoning (GAEZ) version 5 assessment. It enables users to **explore, query, visualize, analyze, and download** GAEZ v5 spatial datasets through an interactive web-based environment.
+The **GAEZ v5 platform** provides open access to geographic and tabular data from the Global Agro-Ecological Zoning (GAEZ) version 5 assessment. It enables users to **explore, query, visualize, analyze, and download** GAEZ v5 spatial datasets through an interactive web-based environment.
 The platform provides access to GAEZ v5 results organized into six main thematic areas:
 
 - **Land and water resources**
