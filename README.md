@@ -19,13 +19,13 @@ This repository provides access to the **GAEZ v5 methodology and technical docum
 
 ## 🧭 What’s in this repository?
 
-- 📖 **GAEZ v5 Methodology and Technical Documentation**  
+- 📖 **GAEZ v5 methodology and technical documentation**  
   Explore detailed documentation of the **GAEZ v5 methodology**, including input data, modelling frameworks, methodological components, and analytical procedures used to assess agricultural resources, land suitability, and agricultural production potential.  
   👉 [GAEZ v5 Wiki](https://github.com/un-fao/gaezv5/wiki)
 
-- 🌍 **GAEZ v5 Platform Resources**  
+- 🌍 **GAEZ v5 platform resources**  
   Access resources for working with the **GAEZ v5 Platform**, including the **Platform User Guide** and supporting tools for programmatic data access. The User Guide provides guidance on navigating the platform, exploring and interpreting datasets, understanding dataset structure and naming conventions, and accessing GAEZ v5 data. Jupyter Notebooks are also provided to support the selection and download of GAEZ v5 datasets through the API.  
-  👉 [GAEZ v5 Platform Resources](./GAEZ-v5-Platform/)
+  👉 [GAEZ v5 platform resources](./GAEZ-v5-Platform/)
 
 - 🐍 **PyAEZ**  
   Explore **PyAEZ**, a Python package implementing algorithms and computational procedures related to the **Agro-Ecological Zoning (AEZ)** framework. PyAEZ supports researchers, analysts, and developers interested in applying AEZ methodologies programmatically and reproducing selected components of the agro-ecological assessment framework.  
@@ -33,11 +33,11 @@ This repository provides access to the **GAEZ v5 methodology and technical docum
 
 ---
 
-## 🔗 Useful Links
+## 🔗 Useful links
 
-- 🌍 **GAEZ v5 Platform:** [Access the GAEZ v5 Platform](https://data.apps.fao.org/gaez/?lang=en)
-- 📘 **GAEZ v5 Platform User Guide:** [Platform User Guide](https://github.com/un-fao/gaezv5/wiki/21.-GAEZ-v5-Platform-User-Guide)
-- 💻 **GAEZ v5 Data Access Notebooks:** [Data Access Notebooks](./GAEZ-v5-Platform/Data-Access-Notebooks/)
-- 📖 **GAEZ v5 Documentation:** [GAEZ v5 Wiki](https://github.com/un-fao/gaezv5/wiki)
-- 🌾 **FAO GAEZ Website:** [Global Agro-Ecological Zoning](https://www.fao.org/gaez)
+- 🌍 **GAEZ v5 platform:** [Access the GAEZ v5 platform](https://data.apps.fao.org/gaez/?lang=en)
+- 📘 **GAEZ v5 platform user guide:** [Platform user guide](https://github.com/un-fao/gaezv5/wiki/21.-GAEZ-v5-Platform-User-Guide)
+- 💻 **GAEZ v5 data access notebooks:** [Data access notebooks](./GAEZ-v5-Platform/Data-Access-Notebooks/)
+- 📖 **GAEZ v5 dcumentation:** [GAEZ v5 wiki](https://github.com/un-fao/gaezv5/wiki)
+- 🌾 **FAO GAEZ website:** [Global Agro-Ecological Zoning](https://www.fao.org/gaez)
 - 🐍 **PyAEZ:** [PyAEZ on GitHub](https://github.com/un-fao/pyaez)
