@@ -1,4 +1,4 @@
-# 💻 GAEZ v5 Data Access Notebooks — User Guide
+# 💻 GAEZ v5 data access notebooks — User Guide
 
 This directory contains **Jupyter Notebooks for access to and download of GAEZ v5 datasets through the API**.
 
